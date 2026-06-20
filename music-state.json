@@ -1,0 +1,27 @@
+{
+  "isPlaying": false,
+  "currentTime": 0,
+  "duration": 0,
+  "history": [
+    {
+      "id": "4c6c7c1e-cc5c-4076-bb57-8154b04d0465",
+      "name": "Слово Жизни Music - Радость в Господе (HOLYCHORDS).mp3",
+      "url": "/uploads/1781955579161-____________Music_-____________________HOLYCHORDS_.mp3"
+    },
+    {
+      "id": "1ac8758b-879b-4f59-8d94-67ad7d63f7c8",
+      "name": "Elevation Worship - So Be It (Live) (HOLYCHORDS).mp3",
+      "url": "/uploads/1781955720314-Elevation_Worship_-_So_Be_It__Live___HOLYCHORDS_.mp3"
+    }
+  ],
+  "imposterFile": {
+    "id": "4c6c7c1e-cc5c-4076-bb57-8154b04d0465",
+    "name": "Слово Жизни Music - Радость в Господе (HOLYCHORDS).mp3",
+    "url": "/uploads/1781955579161-____________Music_-____________________HOLYCHORDS_.mp3"
+  },
+  "mainFile": {
+    "id": "1ac8758b-879b-4f59-8d94-67ad7d63f7c8",
+    "name": "Elevation Worship - So Be It (Live) (HOLYCHORDS).mp3",
+    "url": "/uploads/1781955720314-Elevation_Worship_-_So_Be_It__Live___HOLYCHORDS_.mp3"
+  }
+}
