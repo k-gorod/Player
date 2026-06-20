@@ -6,6 +6,7 @@ import useSWR from 'swr';
 interface Player {
   id: string;
   name: string;
+  isImposter?: boolean;
 }
 
 interface MusicFile {
